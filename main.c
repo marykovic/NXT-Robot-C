@@ -1,3 +1,10 @@
+///////////////////////////////////////////////////////////////////
+// Author: Mary Kovic						 //
+// Date: 07/17/2019						 //
+// Objective: Navigate a maze without hitting any walls		 //
+//            Terminate program when object is found (game over) //
+///////////////////////////////////////////////////////////////////
+
 #pragma config(Sensor, S1,     sonarRight,      sensorSONAR)
 #pragma config(Sensor, S2,     touch,          sensorTouch)
 #pragma config(Sensor, S4,     sonarFront,     sensorSONAR)
